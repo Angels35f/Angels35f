@@ -22,10 +22,6 @@ Estudante de Ciência da Computação (8º semestre), com interesse em desenvolv
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Minha Atividade
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Angels35f&show_icons=true&theme=dracula&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angels35f&layout=compact&theme=dracula)
-
 ---
 
 ### 📫 Contacto
