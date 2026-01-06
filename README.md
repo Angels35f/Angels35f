@@ -19,4 +19,4 @@ Estudante de Ciência da Computação (8º semestre), com interesse em desenvolv
 ---
 
 ### 📫 Contacto
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/angel-santiago-fernandez](https://www.linkedin.com/in/angel-santiago-fernandez-pataquiva-b57780255/?trk=li_LOL_SPIN_global_careers_jobsgtm_conv_acq_july2022_spinv1))
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-santiago-fernandez-pataquiva-b57780255/?trk=li_LOL_SPIN_global_careers_jobsgtm_conv_acq_july2022_spinv1))
